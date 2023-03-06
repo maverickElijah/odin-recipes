@@ -1,0 +1,35 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+body {
+    text-align: center;
+    background-color: lightsteelblue;
+}
+
+
+img {
+    border: 2px solid;
+    border-radius: 30px;
+    margin-right: 40px;
+}
+
+.links{
+    font-size: large;
+    font-weight: bold;
+    line-height: 50px;
+}
+
+a {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.foodpic{
+    float: left;
+}
+
+.container{
+    text-align: left;
+}
